@@ -5,25 +5,28 @@ This flutter project is a mobile dApp deployed to ethereum blockchain.
 ## Look and Feel
 
 ### Login Screen
-![Login screen](flutter_01.png)
+<!-- ![Login screen](flutter_01.png )  -->
+<img src="flutter_01.png" alt="Login screen" width="200"/>
+
 
 ### Personal Details Screen 
-![Personal Details](flutter_05.png)
+<!-- ![Personal Details](flutter_05.png) -->
+<img src="flutter_05.png" alt="Personal Details" width="200"/>
 <br/>  <br/>
 
 ### Connected accounts' Screen 
-![Connected accounts' screen](flutter_02.png)
+<img src="flutter_02.png" alt="Connected accounts' screen" width="200"/>
 <br/>  <br/>
 
 ### Drawer options 
-![Drawer Options](flutter_07.png)
+<img src="flutter_07.png" alt="Drawer Options" width="200"/>
 
 ### QR code generated for seected details. 
-![QR code screen](flutter_06.png)
+<img src="flutter_06.png" alt="QR code screen" width="200"/>
 <br/>  <br/>
 
 ### Scanning Screen.
-![Scanning screen](flutter_08.png)
+<img src="flutter_08.png" alt="Scanning screen" width="200"/>
 <br/>  <br/>
 
 ## About the application. 
